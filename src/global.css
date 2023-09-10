@@ -1,0 +1,12 @@
+body {
+    background: white;
+    background-size: 400% 400%;
+    background-image: url('../src/assets/background.avif');
+  background-size: cover; /* Adjust background image size */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* This keeps the image fixed while scrolling */
+
+
+  }
+ 
+  

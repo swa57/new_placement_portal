@@ -1,0 +1,43 @@
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  #suggestion_id {
+    color: black;
+    text-align: left;
+    margin-top: 20px; /* Adjusted margin for better alignment */
+    margin-left: 20px; /* Adjusted margin for better alignment */
+    width: 250px;
+    padding: 10px;
+    background-color: #f2f2f2; /* Professional background color */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  #suggestions {
+    color: black;
+    text-align: start;
+    margin-top: 10px; /* Adjusted margin for better alignment */
+    width: 450px;
+    text-align: start;
+    padding: 10px;
+    background-color: #f2f2f2; /* Professional background color */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  button[type="submit"] {
+    color: white;
+    padding: 8px 20px; /* Reduced button size */
+    margin-top: 20px;
+    margin-left: 440px; /* Adjusted margin for better alignment */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #111212; /* Different color for the submit button */
+  }
+  
+  /* Add hover effect for the submit button */
+  button[type="submit"]:hover {
+    background-color: #19b4df;
+  }
